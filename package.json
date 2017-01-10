@@ -1,0 +1,23 @@
+{
+  "name": "hyper-phallus",
+  "version": "0.1.0",
+  "description": "Hyper colorscheme based on .Xdefaults from phallus",
+  "license": "MIT",
+  "repository": "Stelgard/hyper-phallus",
+  "author": {
+    "name": "Samuele Cioni",
+    "email": "samuele.cioni@icloud.com",
+    "url": "samuele.io"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "terminal",
+    "term",
+    "theme",
+    "hyperterm"
+  ]
+}
