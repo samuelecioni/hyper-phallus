@@ -1,4 +1,4 @@
-# phallus-snazzy
+# hyper-phallus
 
 > [Hyper](https://hyper.is) colorscheme based on .Xdefaults from phallus
 
