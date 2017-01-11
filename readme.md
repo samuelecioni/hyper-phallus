@@ -1,6 +1,7 @@
 # hyper-phallus
 
-> [Hyper](https://hyper.is) colorscheme based on .Xdefaults from phallus
+> [Hyper](https://hyper.is) colorscheme based on .Xdefaults from
+[phallus](https://github.com/phallus)
 
 ![](screenshot.png)
 
